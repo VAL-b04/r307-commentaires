@@ -4,10 +4,10 @@
   "description": "R307 seance 1 - exercice en groupe : les commentaires des Ateliers du Bois dans PostgreSQL",
   "groupe": {
     "membres": [
-      "",
-      ""
+      "Adam Bajic",
+      "Valentin Beuret"
     ],
-    "depot_github": ""
+    "depot_github": "https://github.com/VAL-b04/r307-commentaires"
   },
   "private": true,
   "type": "commonjs",
